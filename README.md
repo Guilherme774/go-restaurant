@@ -1,4 +1,4 @@
-<h1>👨🏻‍🍳Go's Restaurant</h1>
+<h1>👨🏻‍🍳GO's Restaurant</h1>
 
 > Project Status: Under Development ⚠️
 > <br>
